@@ -1,0 +1,22 @@
+* Cada página é um novo arquivo HTML 
+
+head --> informações passada ao navegador 
+body --> informações exibidas na página
+
+<a> --> tag de âncora, que leva o usuário para outro ponto na internet
+
+
+Reset CSS --> arquivo criado pela comunidade que "limpa" as pré-definições do navegador
+
+* As tags semânticas fazem com que o navegador entenda melhor o nosso conteúdo, e com isso carregue melhor a nossa página.
+
+* listas ocupam 100% do bloco (div)
+
+* Com a propriedade border-radius, podemos desenhar o canto arredondado dos elementos.
+
+hover --> comando que indica alguma ação quando mouse passa por cima de um elemento
+active --> quando um elemento está sendo ativado (clicado) pelo usuário
+
+UNicode --> Permite a inserção de símbolos
+
+* CSS altera estilo, para alterar comportamento, é necessário usar JavaScript 
